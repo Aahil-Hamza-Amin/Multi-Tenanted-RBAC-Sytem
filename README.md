@@ -32,12 +32,6 @@
 * RESTful API design
 * How to use Drizzle ORM
 
-## Data structure
-<img src ="./img/diagram.png" />
-
-## Data flow
-<img src ="./img/data-flow.png" />
-
 ## Structure
 1. Setup the initial application
 2. Create a database with Neon
